@@ -22,3 +22,6 @@
                                      otra deja de poderse fusionar por
                                      fast-forward.
  13     add-commit
+ 14     merge Antecedentes + commit     Surgen conflictos en bitacora.txt
+ 15     merge DatosPersonales + commit  Surgen conflictos en bitacora.txt
+ 16     atom bitacora.txt + add + commit
