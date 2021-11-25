@@ -25,3 +25,10 @@
  14     merge Antecedentes + commit     Surgen conflictos en bitacora.txt
  15     merge DatosPersonales + commit  Surgen conflictos en bitacora.txt
  16     atom bitacora.txt + add + commit
+ 17     tag FusionTerminada
+ 18     push origin master              Da un fallo por fuera de sincronía
+        pull                            Da conflicto en PlanVacunacion.txt
+        commit
+        push origin master
+        push origin FusionTerminada
+ 19     add + commit + push origin master 
