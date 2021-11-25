@@ -13,3 +13,6 @@ Paso  Acción                        Notas
 11 push origin -u DatosPersonales
 12 las fusiones de las ramas podrían realizarse por fast-forward,
 pero cuando se fusiona una con ff, la otra debe fusionarse recursivamente
+13 add + commit
+14 merge Antecedentes + commit (hay conflicto en bitacora)
+15 merge DatosPersonalesEdu + commit (hay conflicto en bitacora
