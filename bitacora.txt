@@ -1,8 +1,12 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre): Sánchez Barreiro, Pablo.             %%
+%% Alumno (Apellidos, Nombre): González del Pozo, Iván.             %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ 01     clone
+ 02     checkout -b DatosPeesonales
+ 03     atom PlanVacunación.txt
+ 04     atom bitacora.txt
