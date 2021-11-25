@@ -1,0 +1,8 @@
+Apellidos: Argüelles Bueno
+Nombre: Eduardo
+
+Acciones realizadas:
+1. git clone git@github.com:educala2000/pruebaParcialGit2020.git
+2. git checkout -b "DatosPersonalesEdu"
+3. atom PlanVacunacion.txt
+4. atom bitacora.txt
