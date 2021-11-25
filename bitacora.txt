@@ -1,3 +1,15 @@
 Nombre: Argüelles Bueno, Eduardo
 
-Paso  Acción Notas
+Paso  Acción                        Notas
+1 git clone git@github...
+2 atom bitacora.txt
+3 git checkout -b "DatosPersonalesEdu"
+4 atom PlanVacunacion.txt
+5 add + commit + push
+6 git checkout Edu
+7 git checkout -b "Antecedentes"
+8 atom Antecedentes.txt
+10 checkout master
+11 push origin -u DatosPersonales
+12 las fusiones de las ramas podrían realizarse por fast-forward,
+pero cuando se fusiona una con ff, la otra debe fusionarse recursivamente
