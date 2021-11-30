@@ -11,7 +11,12 @@
 5 commit "Paso 05"
 6 branch develop
 7 branch feature/Tiquet220 + checkout
+9 commit "Paso 09"
+10 checkout develop
+11 branch feature/Tiquet221
 13 stash "Paso 13" + checkout feature/Tiquet220
+15 commit "Paso 15"
+16 checkout feature/Tiquet221
 17 apply stash
 18 commit "Paso 18"
 19 checkout develop
