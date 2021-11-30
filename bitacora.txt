@@ -8,3 +8,16 @@
 ====== ============================ ================================
 1 git clone
 3 commit "Paso 03" + push
+5 commit "Paso 05"
+6 branch develop
+7 branch feature/Tiquet220 + checkout
+13 stash "Paso 13" + checkout feature/Tiquet220
+17 apply stash
+18 commit "Paso 18"
+19 checkout develop
+20 branch feature/Tiquet222
+21 checkout feature/Tiquet220
+22                                  podría realizarse por fast forward ya que todavía no
+                                    se ha hecho ningún merge sobre develop. En cuanto haya
+                                    otra rama fusionada en develop, deberá hacerse de
+                                    manera recursiva
