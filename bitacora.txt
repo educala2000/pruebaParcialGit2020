@@ -26,3 +26,9 @@
                                     se ha hecho ningún merge sobre develop. En cuanto haya
                                     otra rama fusionada en develop, deberá hacerse de
                                     manera recursiva
+23 commit "Paso 23"
+24 checkout develop
+25 merge feature/Tiquet220 --no-ff
+26 merge feature/Tiquet221 --no-ff  da error en bitacora. Se soluciona ordenando los pasos
+                                    (a la bitacora más completa le faltaban los pasos 9-11
+                                    y 15-16) y se hace commit
