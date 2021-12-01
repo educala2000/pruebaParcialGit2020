@@ -1,3 +1,4 @@
 bitacora
 1 Crear documento
 2 Crear ticket1
+3 Cambios para stash
